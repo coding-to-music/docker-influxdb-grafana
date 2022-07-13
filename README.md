@@ -1,6 +1,8 @@
 # docker-influxdb-grafana
 
-# 🚀 show data from a [Home Assistant](https://home-assistant.io) installation. 🚀
+# 🚀 A Docker container which runs InfluxDB and Grafana ready for persisting data 🚀
+
+## show data from a [Home Assistant](https://home-assistant.io) installation.
 
 https://github.com/coding-to-music/docker-influxdb-grafana
 
