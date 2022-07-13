@@ -106,14 +106,6 @@ Host		Container		Service
 8086		8086			influxdb
 ```
 
-## Grafana - use userid/password root/root (set from the ./grafana/grafana.ini)
-
-http://localhost:3003/datasources
-
-http://localhost:3003/plugins
-
-http://localhost:3003/dashboards
-
 ## ChronoGraf
 
 http://localhost:3004/sources
@@ -132,10 +124,18 @@ docker exec -it <CONTAINER_ID> bash
 
 Open <http://localhost:3003>
 
+use userid/password root/root (set from the ./grafana/grafana.ini)
+
 ```
 Username: root
 Password: root
 ```
+
+http://localhost:3003/datasources
+
+http://localhost:3003/plugins
+
+http://localhost:3003/dashboards
 
 ### Add data source on Grafana
 
