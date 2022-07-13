@@ -1,6 +1,6 @@
 # docker-influxdb-grafana
 
-# 🚀 Grafana Smart Weather Dashboard 🚀
+# 🚀 show data from a [Home Assistant](https://home-assistant.io) installation. 🚀
 
 https://github.com/coding-to-music/docker-influxdb-grafana
 
