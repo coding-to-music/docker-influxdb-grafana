@@ -109,7 +109,9 @@ Host		Container		Service
 ## Grafana - use userid/password root/root (set from the ./grafana/grafana.ini)
 
 http://localhost:3003/datasources
+
 http://localhost:3003/plugins
+
 http://localhost:3003/dashboards
 
 ## ChronoGraf
