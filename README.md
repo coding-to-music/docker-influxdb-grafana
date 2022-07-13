@@ -104,6 +104,20 @@ Host		Container		Service
 8086		8086			influxdb
 ```
 
+## Grafana - use userid/password root/root (set from the ./grafana/grafana.ini)
+
+http://localhost:3003/datasources
+http://localhost:3003/plugins
+http://localhost:3003/dashboards
+
+## ChronoGraf
+
+http://localhost:3004/sources
+
+## InfluxDB
+
+http://localhost:8086 (404 page not found)
+
 ## SSH
 
 ```sh
